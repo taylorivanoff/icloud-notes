@@ -19,7 +19,7 @@
     "icon": "icon.png"
   },
   "devDependencies": {
-    "electron": "^8.3.0",
-    "electron-builder": "^22.6.0"
+    "electron": "^30.0.3",
+    "electron-builder": "^24.13.3"
   }
 }

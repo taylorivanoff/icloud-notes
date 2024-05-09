@@ -1,5 +1,5 @@
 {
-  "name": "icloud-pc",
+  "name": "icloud-notes",
   "description": "View your iCloud notes, reminders and more in a native Windows application.",
   "author": {
     "name": "Taylor Ivanoff"
@@ -12,7 +12,7 @@
     "release": "electron-builder --win --x64 --publish=never"
   },
   "build": {
-    "appId": "io.github.taylorivanoff.icloud-notes-windows-client",
+    "appId": "io.github.taylorivanoff.icloud-notes",
     "productName": "iCloud Notes"
   },
   "win": {

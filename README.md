@@ -12,13 +12,11 @@ This project offers a native Windows application via Electron for accessing iClo
 
 Ensure that Node.js is installed on your system to run the application.
 
-## Installation
+## Development
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal.
 3. Run `npm install` to install the required dependencies.
-
-## Usage
 
 To run the Electron application:
 
